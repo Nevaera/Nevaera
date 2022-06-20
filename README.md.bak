@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nevaera aka. Brian Greaves
+- 👀 I’m interested in **Information Security**, **Computer Vision**, **Python**, and **Computer Science Research**
+- 🌱 I’m currently learning **penetration testing** and **Rust**
+- 📫 You can reach me over on my LinkedIn profile: https://www.linkedin.com/in/brian-r-greaves/ or see my published research on ResearchGate: https://www.researchgate.net/profile/Brian-Greaves
